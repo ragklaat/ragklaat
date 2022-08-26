@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+📫 You can reach me at: 
+https://www.linkedin.com/in/richard-ilyes/
