@@ -15,5 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+My name is Richard and my main experience is enterprise backend engineering.
+
+Currently interested in learning distributed system design and ML.
+
 📫 You can reach me at: 
 https://www.linkedin.com/in/richard-ilyes/
