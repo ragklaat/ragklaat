@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Richard and my main experience is enterprise backend engineering.
-
-Currently interested in learning distributed system design.
+My name is Richard and my main experience is backend engineering.
 
 📫 You can reach me at: 
 https://www.linkedin.com/in/richard-ilyes/
